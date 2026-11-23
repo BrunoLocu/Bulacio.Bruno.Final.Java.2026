@@ -1,0 +1,4 @@
+tipo,codigo,marca,modelo,precio,stock,capacidad,velocidad,vram,consumo,potencia,certificacion
+MemoriaRAM,101,"Kingston","Fury Beast",85000.0,5,16,3200,,,,
+PlacaVideo,102,"MSI","RTX4060",470000.0,4,,,8,115,,
+Fuente,103,"Corsair","RM750",120000.0,3,,,,,750,GOLD

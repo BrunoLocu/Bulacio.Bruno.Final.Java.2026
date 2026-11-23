@@ -1,0 +1,32 @@
+[
+{
+"tipo": "MemoriaRAM",
+"codigo": 101,
+"marca": "Kingston",
+"modelo": "Fury Beast",
+"precio": 85000.0,
+"stock": 5,
+"capacidad": 16,
+"velocidad": 3200
+},
+{
+"tipo": "PlacaVideo",
+"codigo": 102,
+"marca": "MSI",
+"modelo": "RTX4060",
+"precio": 470000.0,
+"stock": 4,
+"vram": 8,
+"consumo": 115
+},
+{
+"tipo": "Fuente",
+"codigo": 103,
+"marca": "Corsair",
+"modelo": "RM750",
+"precio": 120000.0,
+"stock": 3,
+"potencia": 750,
+"certificacion": "GOLD"
+}
+]

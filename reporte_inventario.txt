@@ -1,0 +1,6 @@
+REPORTE INVENTARIO DE INSUMOS
+----------------------------------------
+Código: 101 | Marca: Kingston | Modelo: Fury Beast | Precio: 85000.0 | Stock: 5 | Capacidad: 16 GB | Velocidad: 3200 MT/s
+----------------------------------------
+Código: 103 | Marca: Corsair | Modelo: RM750 | Precio: 120000.0 | Stock: 3 | Potencia: 750 W | Certificación: GOLD
+----------------------------------------

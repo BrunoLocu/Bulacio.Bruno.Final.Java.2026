@@ -1,0 +1,7 @@
+REPORTE INVENTARIO DE INSUMOS
+----------------------------------------
+Código: 3 | Marca: Kingston, Inc | Modelo: Fury \"Pro\"\nEdición\tEspecial | Precio: 85000.0 | Stock: 0 | Capacidad: 16 GB | Velocidad: 3200 MT/s
+----------------------------------------
+Código: 2 | Marca: Corsair | Modelo: RM750 | Precio: 120000.0 | Stock: 0 | Potencia: 750 W | Certificación: GOLD
+----------------------------------------
+Total de productos exportados: 2
